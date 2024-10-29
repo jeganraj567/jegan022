@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <center>
+        <div class="new">
+        <h1>RESUME</h1>
+        </div>
+    </center>
+     
+    <p><h1>Hey I'm AYYANAR</h1></p>
+    <p>Abouts is an adverb that means in or near a certain <br>place or direction12. It is often used with words like here, <br> there, or where to indicate an approximate location or position2. For example, </p>
+    <div class="menu">
+        <a href="new.html">home</a>
+        <a href="about.html">about</a>
+        <a href="skills.html">skills</a>
+        <a href="contect.html">contect</a>
+
+    </div>
+    
+</body>
+</html>
